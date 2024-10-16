@@ -33,6 +33,9 @@
       "eslint --fix"
     ]
   },
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^1.10.6",
